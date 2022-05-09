@@ -1,0 +1,23 @@
+{
+  "name": "testcov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiisetsohub/testcov.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiisetsohub/testcov/issues"
+  },
+  "homepage": "https://github.com/tiisetsohub/testcov#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
