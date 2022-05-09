@@ -4,4 +4,4 @@ orbs:
 jobs:
   build:
     steps:
-      file: ({ api.yml }}
+      file: ({ config.yml }}
